@@ -1,0 +1,3 @@
+Go Language: https://golang.org/dl/
+Visual Studio Code: https://code.visualstudio.com/Download
+Taskrunner Setup: https://github.com/Microsoft/vscode-go/wiki/Usage-FAQ
